@@ -1,0 +1,45 @@
+/*element styling*/
+
+
+h1 {
+    font-family: 'Oswald', 'sans-serif';
+    text-align: center;
+}
+
+h2 {
+    font-family: 'Oswald', 'sans-serif';
+}
+
+h3 {
+    font-family: 'Oswald', 'sans-serif';
+}
+
+p {
+    font-family: 'Montserrat', 'sans-serif';
+}
+
+li {
+    font-family: 'Montserrat', 'sans-serif';
+}
+
+a {
+    font-family: 'Montserrat', 'sans-serif';
+}
+
+/* class selectors */
+
+.logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 150px;
+    height: 150px;
+}
+
+.header {
+    background-color: #E9B6AD;
+}
+
+.footer ul li {
+    display: inline;
+}
